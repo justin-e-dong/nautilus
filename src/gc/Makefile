@@ -1,4 +1,0 @@
-obj-$(NAUT_CONFIG_ENABLE_BDWGC) += bdwgc/
-obj-$(NAUT_CONFIG_ENABLE_PDSGC) += pdsgc/
-
-obj-$(NAUT_CONFIG_GARBAGE_COLLECTION) += gc.o

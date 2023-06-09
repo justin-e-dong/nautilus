@@ -1,4 +1,0 @@
- datatype prod2 = Collection<int>;
- datatype a = Collection<int>;
- datatype b = Collection<int>;
-function prod2 (a , b) = { x * y : x in a ; y in b };

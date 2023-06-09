@@ -1,1 +1,0 @@
-/* Not used. Replace when additional ACPICA functionality required. */
